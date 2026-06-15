@@ -1,26 +1,16 @@
-# Career Care Assignment - Internshala
+# Jarurat Care - Mini Healthcare Support Web App
 
-This is my assignment for Internshala. 
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Hosting: Vercel
 
-## About Project
-A simple student registration form built using HTML and CSS.
+## AI Idea Implemented
+Ask Mira Chatbot: A concept-level FAQ bot using JavaScript keyword matching. It provides automated responses for 'fever', 'appointment', and 'volunteer' queries to reduce manual workload.
 
-## Features
-- Name, Email, Phone fields
-- Gender selection 
-- Terms & Conditions checkbox
-- Responsive design
-- Blue background with white form
+## NGO Use-Case for Jarurat Care
+1. Patients can submit support requests 24/7 via the contact form.
+2. Ask Mira handles repetitive questions, saving volunteer time.
+3. All queries are captured digitally for NGO follow-up.
 
-**Live Demo:** https://pratiksha-chaudhari-01.github.io/Career-care-assignment/
-
-
-## Future AI Integration Ideas
-- AI Chatbot can be added to guide students/patients 24/7
-- Smart form validation using AI to detect fake entries
-- Auto-suggestions for NGOs to match volunteers based on skills
-- ## NGO Use Case
-- NGOs can use this form to register volunteers quickly
-- Patient data can be collected for healthcare camps
-- Easy to customize for different healthcare drives
-
+## Live Link
+Tuji Vercel chi link ithe takaychi aahe
