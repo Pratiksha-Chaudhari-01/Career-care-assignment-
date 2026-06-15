@@ -13,4 +13,4 @@ Ask Mira Chatbot: A concept-level FAQ bot using JavaScript keyword matching. It 
 3. All queries are captured digitally for NGO follow-up.
 
 ## Live Link
-Tuji Vercel chi link ithe takaychi aahe
+https://jarurat-care-support.vercel.app/
